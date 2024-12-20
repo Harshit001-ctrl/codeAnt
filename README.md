@@ -45,7 +45,7 @@ second is signin buttons
 Here is the mobile view
 
 
-1[imgurl](https://github.com/Harshit001-ctrl/codeAnt/blob/ff0cec7ea5a738c46f7504b5dec549cc8c316ceb/login%20mobile%20.png)
+1[imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/ff0cec7ea5a738c46f7504b5dec549cc8c316ceb/login%20mobile%20.png)
 
 
 
