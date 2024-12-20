@@ -5,6 +5,9 @@ In this repo.. you found 2 projects one is GitHub Clone and second is Login page
 here is the view of GitHub clone
  ![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/edc2c0d299e786f84a3e8bac9be6116908940a48/github.png)
 
+we can create the repo in the form of array
+ ![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/36703608e102bb101e660ca60985427fe34dc47f/create%20repo.png)
+
 ![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/75f0d2fead3a27b076c55b1314c447b0ee44135d/Repo%20code.png)
 by this code we can create a repositry . we can found how many repositry , searchBar, 
 
@@ -19,3 +22,25 @@ this code is for the side Bar
 
 Here is mobile view
 ![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/7a207288b557288bb3a0e6ef13f4839aded1bb53/Mobile%20view.png)
+
+Second is Login Page 
+here is the view of the login page 
+![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/36703608e102bb101e660ca60985427fe34dc47f/login.png)
+
+we create the left side of the login page using two componets first one is 
+issued box
+![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/36703608e102bb101e660ca60985427fe34dc47f/issue%20box.png)
+second is detect box
+![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/36703608e102bb101e660ca60985427fe34dc47f/detect.png).
+
+we create the signin options and sign in buttons
+first is signin option  Code
+![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/36703608e102bb101e660ca60985427fe34dc47f/Sign%20option.png).
+
+second is signin buttons
+![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/36703608e102bb101e660ca60985427fe34dc47f/sign%20button.png).
+
+
+
+
+
