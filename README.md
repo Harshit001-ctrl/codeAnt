@@ -42,7 +42,10 @@ first is signin option  Code
 second is signin buttons
 ![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/36703608e102bb101e660ca60985427fe34dc47f/sign%20button.png).
 
+Here is the mobile view
 
+
+1[imgurl](https://github.com/Harshit001-ctrl/codeAnt/blob/ff0cec7ea5a738c46f7504b5dec549cc8c316ceb/login%20mobile%20.png)
 
 
 
