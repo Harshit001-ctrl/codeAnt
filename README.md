@@ -15,4 +15,5 @@ with the help of this code we can see in the mobile view
 ![imageurl](https://github.com/Harshit001-ctrl/codeAnt/blob/9075bc5f71626ce655dc9b94451a6037ae8dd7eb/SideBar%20Code.png)
 this code is for the side Bar
 
-
+here is mobile view
+![imageurl]([https://github.com/Harshit001-ctrl/codeAnt/blob/9075bc5f71626ce655dc9b94451a6037ae8dd7eb/SideBar%20Code.png](https://github.com/Harshit001-ctrl/codeAnt/blob/7a207288b557288bb3a0e6ef13f4839aded1bb53/Mobile%20view.png))
