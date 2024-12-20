@@ -1,3 +1,5 @@
+Firstly, run the command after download the project the command is - npm install
+
 In this repo.. you found 2 projects one is GitHub Clone and second is Login page both are responsive.
 
 here is the view of GitHub clone
